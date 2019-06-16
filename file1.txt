@@ -1,1 +1,2 @@
 Added error
+Added something to feature file 1
